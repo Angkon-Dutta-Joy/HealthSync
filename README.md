@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/Angkon-Dutta-Joy/HealthSync.git
    ```
 
 2. Set up a local development environment using XAMPP or LAMP to run PHP and MySQL.
