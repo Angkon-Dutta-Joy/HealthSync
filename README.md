@@ -1,6 +1,6 @@
 # Hospital Management System (HMS)
 
-An elegant, comprehensive, and user-friendly solution designed to streamline the operations of hospitals and healthcare facilities. Built with PHP, MySQL, JavaScript, and Bootstrap, this Hospital Management System aims to bridge the gap between patients, healthcare providers, and administrative staff, ensuring a smooth and efficient experience for everyone involved.
+An elegant, comprehensive, and user-friendly solution designed to streamline the operations of hospitals and healthcare facilities online. Built with PHP, MySQL, JavaScript, and Bootstrap, this Hospital Management System aims to bridge the gap between patients, healthcare providers, and administrative staff, ensuring a smooth and efficient experience for everyone involved.
 
 ## Features
 
